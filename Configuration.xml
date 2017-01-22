@@ -114,6 +114,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Catalog>СтруктураОрганизации</Catalog>
+			<Document>Документ1</Document>
 			<InformationRegister>СтруктураОрганизации</InformationRegister>
 		</ChildObjects>
 	</Configuration>
